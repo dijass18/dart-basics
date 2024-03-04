@@ -9,5 +9,5 @@ void main() {
   int? r = int.parse(stdin.readLineSync()!);
   double hasil = (p * t * r) / 100;
 
-  print("Hasilnya adala ${hasil}");
+  print("Hasilnya adalah ${hasil}");
 }
